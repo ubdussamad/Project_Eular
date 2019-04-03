@@ -1,6 +1,7 @@
 #Project Euler 26
 #@ubdussamad
 #Ref: 1Mar18
+#http://multporn.net/comics/wonder_woman
 #Maximum number of recurring cycles.
 def timeit(func):
 	def time_wrapper(*args,**kwargs):
